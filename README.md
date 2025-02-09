@@ -1,3 +1,5 @@
-Add comparison here
+The comparison in this pokemon search is with the react.js and with the plain javascript, where users can input the name of a pokemon, retrieve information via an API, and see their details. HTML, CSS, and JavaScript are the only three files in the simplified plain JS version. The form and a section displaying Pokémon data are included in the HTML file. The JavaScript file manages everything else, while the CSS file designs the page. JavaScript retrieves the information from an API and uses inner HTML to update the webpage after a user enters a Pokémon name and submits the form. This method doesn't require any additional setup and is simple to grasp.
 
-blah blah blah
+The React.js version, meanwhile, is more modular and structured. React manages the user interface (UI) using components rather than directly altering the HTML. App.js contains the primary logic, and state management (useState) aids in tracking Pokémon failures and information. Additionally, React makes the webpage more scalable and efficient by updating it immediately when the data changes. However, more files and some familiarity with JavaScript frameworks are needed to build up a React project. 
+
+In conclusion, the plain JS version is the greatest option if you're looking for a straightforward and portable solution. However, React.js is superior if you require a more methodical and scalable approach. While basic JavaScript is effective for short and straightforward applications, React is better suited for larger projects. 
